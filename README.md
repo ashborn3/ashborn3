@@ -6,7 +6,6 @@
 
 Hello! I'm Nitin Chauhan, a passionate software developer currently pursuing a Bachelor of Engineering in Computer Science at Chandigarh University. With a strong foundation in programming and a keen interest in cutting-edge technologies, I thrive on solving complex problems and building innovative solutions.
 
-- **Email:** [nitin.dev.ashborn3@gmail.com](mailto:nitin.dev.ashborn3@gmail.com)
 - **LinkedIn:** [Nitin Chauhan](https://www.linkedin.com/in/nitin-chauhan-8321471b7/)
 - **GitHub:** [ashborn3](https://github.com/ashborn3)
 
