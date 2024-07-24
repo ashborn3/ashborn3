@@ -12,5 +12,3 @@ Hello! I'm Nitin Chauhan, a passionate software developer currently pursuing a B
 ## Connect with Me
 
 I'm always open to discussing new projects, collaborations, or opportunities to learn and grow in the field of software development. Feel free to reach out to me via [email](mailto:nitin.dev.ashborn3@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nitin-ashborn3).
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashborn3&show_icons=true&theme=radical)
